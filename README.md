@@ -1,4 +1,4 @@
-# 🎮 React Beginner Project - Tenzies Game 
+# 🎮 React Beginner Project - Assembly Endgame 
 
 This project was created while following the YouTube tutorial:  
 [**Learn React JS - Full Beginner's Tutorial & Practice Projects**](https://youtu.be/x4rFhThSX04?si=OwFHCu3SkQq5qjgJ)  
