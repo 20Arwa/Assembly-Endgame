@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  transition: .1s;
+}
+body {
+  font-family: "Hanken Grotesk", Arial, sans-serif;
+}
+#root {
+  height: 100vh;
+  background-color: #262626;
+}
+button {
+  border-color: transparent;
+}
