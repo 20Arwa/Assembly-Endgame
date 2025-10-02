@@ -3,7 +3,7 @@
 }
 @media (min-width: 992px) {
   .container-div {
-    width: 50%;
+    min-width: 50%;
   }
 }
 
@@ -18,7 +18,7 @@
 
 @media (min-width: 992px) {
   .game-status {
-    width: 65%;
+    max-width: 65%;
   }
 }
 
@@ -31,7 +31,7 @@
 }
 @media (min-width: 992px) {
   .prog-langs {
-    width: 50%;
+    max-width: 50%;
   }
 }
 
@@ -46,7 +46,7 @@
 /* Keyboard */
 @media (min-width: 992px) {
   .keyboard {
-    width: 70%;
+    max-width: 70%;
   }
 }
 .keyboard button {

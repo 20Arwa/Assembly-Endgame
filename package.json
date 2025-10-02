@@ -6,10 +6,10 @@
   "homepage": "https://20Arwa.github.io/Assembly-Endgame",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run bulid",
+    "build": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
