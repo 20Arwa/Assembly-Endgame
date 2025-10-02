@@ -112,7 +112,7 @@ function App() {
         </div>
         
         {/* The Word */}
-        <div className="word my-5 d-flex justify-content-center">
+        <div className="word my-4 d-flex justify-content-center">
           {AnswLetterEles}
         </div>
 
